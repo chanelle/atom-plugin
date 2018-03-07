@@ -75,3 +75,7 @@ dictionary.
 - Multiple Hub endpoints for on-premise customers
 - API token to Hub
 - Change panel location (left or right)
+
+## Parsing & Linting
+- The Plugin will run `storyscript parse :file --json` to get errors and warnings
+- The Plugin will run `TBD` to validate the `asyncy.yml`
